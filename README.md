@@ -6,14 +6,16 @@ This assignment demonstrates advanced data visualization skills using Python's `
 ```
 Assignment-3/
 ├── README.md
-├── iris/
+├── Iris dataset vizualization/
 │   ├── iris_visualization.py
 │   ├── correlation_heatmap.png
 │   ├── pairplot.png
 │   ├── violin_plots.png
 │   └── pca_scatter.png
-└── titanic/
-    └── titanic_visualization.py
+└── Titanic Survival Analysis/
+    └── viz2.py
+    └── terminal output.png
+    └── Figure_1.png
 ```
 
 ## Overview
@@ -54,8 +56,8 @@ Generates four PNG files with different visualization types.
 
 ### Run Titanic Visualization:
 ```bash
-cd titanic/
-python titanic_visualization.py
+cd Titanic Survival Analysis/
+python viz2.py
 ```
 Displays comprehensive dashboard and prints statistical analysis.
 
