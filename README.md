@@ -20,14 +20,14 @@ Assignment-3/
 
 ## Overview
 
-### Iris Dataset Analysis (`iris/`)
+### Iris Dataset Analysis (`Iris dataset vizualization/`)
 Explores flower measurement patterns across three species using:
 - **Correlation heatmap**: Feature relationships
 - **Pairplot**: Species separation patterns with density curves
 - **Violin plots**: Distribution analysis by species
 - **PCA scatter plot**: Dimensionality reduction visualization
 
-### Titanic Dataset Analysis (`titanic/`)
+### Titanic Dataset Analysis (`Titanic Survival Analysis/`)
 Comprehensive survival analysis dashboard featuring:
 - **Survival rates**: By passenger class with statistical annotations
 - **Age distribution**: With KDE overlays and survival comparison
